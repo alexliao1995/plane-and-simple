@@ -15,3 +15,5 @@ The GameObject is largely an general interface that could provide functionality 
 Much of the implement of the functionality in Planes, Runway and GameSpace are dynamic, allowing for extensive subtyping (especially of the Planes class). Very less of the numerical calculations are "hard coded". 
 Also, Planes has a small block of commented code that provides for more realistic mechanics; however, the ability for the speed to drop below zero and a lack of time to implement stall failures meant that this was left out. 
 Also, the current movement calculation are more easily "playable". 
+
+To-do: Clean up rushed code, add more planes/maps!
