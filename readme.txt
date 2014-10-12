@@ -17,3 +17,5 @@ Also, Planes has a small block of commented code that provides for more realisti
 Also, the current movement calculation are more easily "playable". 
 
 To-do: Clean up rushed code, add more planes/maps!
+
+Provided under the terms of GPL V3. 
